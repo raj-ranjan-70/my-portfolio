@@ -1,0 +1,21 @@
+import Hero from "@/components/hero"
+import TechStack from "@/components/tech-stack"
+import FeaturedProjects from "@/components/featured-projects"
+import Experience from "@/components/experience"
+import Education from "@/components/education"
+import Social from "@/components/social"
+import Contact from "@/components/contact"
+
+export default function Home() {
+  return (
+    <main className="min-h-screen">
+      <Hero />
+      <TechStack />
+      <FeaturedProjects />
+      <Experience />
+      <Education />
+      <Social />
+      <Contact />
+    </main>
+  )
+}
