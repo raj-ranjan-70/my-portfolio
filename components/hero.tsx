@@ -122,7 +122,7 @@ export default function Hero() {
             <div className="flex justify-center lg:justify-end">
               <div className="relative w-full max-w-sm">
                 <img
-                  src="/profile.jpg"
+                  src="/profile1.png"
                   alt="Raj Ranjan - Full Stack Developer"
                   className="w-full h-auto rounded-2xl shadow-2xl border-4 border-pink-200 dark:border-pink-900/50 object-cover"
                 />
