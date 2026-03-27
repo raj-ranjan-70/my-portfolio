@@ -48,15 +48,15 @@ export default function Hero() {
                 <h1 className="text-5xl sm:text-6xl md:text-7xl font-bold tracking-tight text-gray-900 dark:text-white">
                   Raj Ranjan
                 </h1>
-                <div className="space-y-3">
-                  <p className="text-lg sm:text-xl md:text-lg text-gray-700 dark:text-gray-300 leading-relaxed">
-                    A curious mind who enjoys turning complex problems into simple solutions.
+                <div className="space-y-4">
+                  <p className="text-base sm:text-lg md:text-lg text-gray-700 dark:text-gray-300 leading-relaxed">
+                    A curious mind who enjoys turning complex problems into simple solutions. Passionate about technology, learning, and building things that actually work.
                   </p>
-                  <p className="text-lg sm:text-xl md:text-lg text-gray-700 dark:text-gray-300 leading-relaxed">
-                    Passionate about technology, learning, and building things that actually work.
+                  <p className="text-base sm:text-lg md:text-lg text-gray-700 dark:text-gray-300 leading-relaxed">
+                    My development journey started with the MERN Stack, where I built hands-on experience in creating full stack applications. Now, I'm advancing my journey by learning Laravel and springBoot to strengthen my backend expertise.
                   </p>
-                  <p className="text-lg sm:text-xl md:text-lg text-gray-700 dark:text-gray-300 leading-relaxed">
-                    Always improving, one line of code at a time.
+                  <p className="text-base sm:text-lg md:text-lg text-gray-700 dark:text-gray-300 leading-relaxed">
+                    Beyond coding I'd like to keep the human side alive. In my free time, I enjoy listening to music and watching movies. I believe growth happens step-by-step and I'm always improving one line of code at a time.
                   </p>
                 </div>
               </div>
